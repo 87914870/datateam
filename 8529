@@ -7,4 +7,6 @@ SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SELECT COUNT(*) INTO @have_membership_enrollment_originally FROM membership_listing;
 我来了
 
+我又来了
+
 
