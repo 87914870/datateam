@@ -5,5 +5,6 @@
 SET @old_group_concat_max_len=@@group_concat_max_len,group_concat_max_len=2000000;
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SELECT COUNT(*) INTO @have_membership_enrollment_originally FROM membership_listing;
+我来了
 
 
